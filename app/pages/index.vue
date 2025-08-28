@@ -116,7 +116,7 @@
     <div class="grid lg:grid-cols-2 items-center justify-items-center gap-5">
       <div class="order-2 lg:order-1 flex flex-col justify-center items-center">
         <p class="text-4xl font-bold md:text-7xl text-orange-600"></p>
-        <p class="text-4xl font-bold md:text-7xl">Marodaseynov Didor</p>
+        <p class="text-4xl font-bold md:text-7xl">Marodaseynov Didor!</p>
         <p class="mt-2 text-sm md:text-lg">Cordinator American space khorug</p>
 
       </div>
